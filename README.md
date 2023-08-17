@@ -11,7 +11,7 @@
 ## About:
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Data Analysis,Django with Python**
+- 🌱 I’m currently learning **Data Analysis, Machine Learning**
 
 - 💬 Talks about **Latest Technology**
 
